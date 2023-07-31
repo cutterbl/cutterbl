@@ -26,7 +26,7 @@ Fun Fact: My whole family [sings](https://www.youtube.com/c/SteveCutterBlades/vi
 # 📊GitHub Stats :
 <p align="center">
   <a href="https://github.com/cutterbl">
-    <img src="https://github-readme-stats.vercel.app/api?username=cutterbl&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" />
+    <img src="https://github-readme-stats-masterrstaa-rickstaa.vercel.app/api?username=cutterbl&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" />
   </a>
 </p>
 <p align="center">
@@ -36,7 +36,7 @@ Fun Fact: My whole family [sings](https://www.youtube.com/c/SteveCutterBlades/vi
 </p>
 <p align="center">
   <a href="https://github.com/cutterbl">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutterbl&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+    <img src="https://github-readme-stats-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cutterbl&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
   </a>
 </p>
 
